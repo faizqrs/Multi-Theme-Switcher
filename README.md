@@ -59,8 +59,9 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/theme-switcher-app.git
-cd theme-switcher-app
+git clone https://github.com/faizqrs/Multi-Theme-Switcher.git
+
+Cd Multi-Theme-Switcher
 
 
 2. Install dependencies
@@ -98,13 +99,12 @@ To add more themes or tweak existing ones, update the .themeX blocks and CSS var
 
 
 
-bash
-Copy code
-npm run build
+
+
 📧 Contact / Author
 Author: Faisal Qureshi
 Email: faisalqrs19@gmail.com
-GitHub: github.com/your-username
+GitHub: github.com/faizqrs
 
 ✅ Assessment Checklist
  3 unique themes with different fonts/colors/layouts
